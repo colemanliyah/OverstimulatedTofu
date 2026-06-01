@@ -37,8 +37,6 @@ Using an IR or Ultrasonic distance sensor, the organism senses nearby human pres
 └── README.md
 ```
 
-*(Update structure to match your repo.)*
-
 ---
 
 ## Demo
