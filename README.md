@@ -72,12 +72,4 @@ View the full project documentation, process, and additional work on my portfoli
 
 ---
 
-## Future Directions
-
-- Expanded behavioral states
-- Multi-sensory feedback (light / sound / haptics)
-- Refined soft actuation system
-- Further material experimentation
-
----
 Creative Technologist • Interactive Design • Physical Computing
