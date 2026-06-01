@@ -7,7 +7,7 @@
 ## Main Image
 
 <p align="center">
-  <img src="assets/main.png" alt="Overstimulated Tofu project hero image" width="800"/>
+  <img src="assets/main.png" alt="Overstimulated Tofu project hero image" width="600"/>
 </p>
 
 ---
