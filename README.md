@@ -1,7 +1,5 @@
 # Overstimulated Tofu
 
-[![Project Status](https://img.shields.io/badge/status-prototype-orange)]()
-
 > A responsive bio-material organism that reacts to human proximity through movement, simulating overstimulation in an increasingly crowded environment.
 
 ---
@@ -83,6 +81,3 @@ View the full project documentation, process, and additional work on my portfoli
 
 ---
 Creative Technologist • Interactive Design • Physical Computing
-
-Portfolio: https://yourportfolio.com  
-GitHub: https://github.com/colemanliyah
