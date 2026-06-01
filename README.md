@@ -7,10 +7,8 @@
 ## Main Image
 
 <p align="center">
-  <img src="images/main-image.jpg" alt="Overstimulated Tofu project hero image" width="800"/>
+  <img src="assets/main.png" alt="Overstimulated Tofu project hero image" width="800"/>
 </p>
-
-*(Replace with your main project image / gif.)*
 
 ---
 
@@ -48,7 +46,7 @@ Using an IR or Ultrasonic distance sensor, the organism senses nearby human pres
 Add video, gif, or interaction demo here.
 
 ```md
-![Demo GIF](assets/demo.gif)
+![Demo GIF](assets/main.gif)
 ```
 ---
 
