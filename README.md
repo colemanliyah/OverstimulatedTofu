@@ -43,9 +43,7 @@ Using an IR or Ultrasonic distance sensor, the organism senses nearby human pres
 
 Add video, gif, or interaction demo here.
 
-```
-![Demo GIF](assets/main.png)
-```
+![Demo GIF](assets/main.gif)
 ---
 
 ## Process
